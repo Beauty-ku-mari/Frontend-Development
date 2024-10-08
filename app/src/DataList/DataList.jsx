@@ -7,7 +7,11 @@ const DataList = () => {
     { name: 'Course 3', about: 'Python - A popular language for data science.' },
     { name: 'Course 4', about: 'C++ - An extension of C for object-oriented programming.' },
     { name: 'Course 5', about: 'Ruby - Known for its elegant syntax.' },
-
+    { name: 'Course 6', about: 'Go - Designed for simplicity and efficiency.' },
+    { name: 'Course 7', about: 'Swift - The language for iOS app development.' },
+    { name: 'Course 8', about: 'PHP - Widely used for web development.' },
+    { name: 'Course 9', about: 'Rust - A language empowering everyone to build reliable and efficient software.' },
+    { name: 'Course 10', about: 'Kotlin - A modern language for Android development.' },
   ];
 
   return (
