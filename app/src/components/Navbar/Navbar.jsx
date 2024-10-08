@@ -45,6 +45,9 @@ const Navbar = () => {
                 Action
               </button>
             </li>
+            <li className="nav-item">
+              <Link className="nav-link" to="/datalist">DataList</Link>
+            </li>
           </ul>
         </div>
       </div>
