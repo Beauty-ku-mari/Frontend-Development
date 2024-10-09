@@ -9,6 +9,7 @@ const DataList = () => {
     { name: 'course 4', description: 'C++' },
     { name: 'course 5', description: 'Ruby' },
     { name: 'course 6', description: 'Go' },
+    
   ];
   return (
     <div className="container mt-4">
