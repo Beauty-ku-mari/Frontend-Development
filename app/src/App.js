@@ -5,6 +5,7 @@ import HomePage from './pages/HomePage';
 import AboutPage from './pages/AboutPage';
 import ContactPage from './pages/ContactPage';
 import DataList from './DataList/DataList.jsx';
+import ApiData from './DataList/ApiData.jsx';
 
 
 function App() {
@@ -19,8 +20,8 @@ function App() {
         <Route path="/about" element={<AboutPage />} />
         <Route path="/contact" element={<ContactPage />} />
         <Route path="/datalist" element={<DataList />} />
+        <Route path="/apidata" element={<ApiData />} />
 
-         
       </Routes>
     </Router>
   </>
