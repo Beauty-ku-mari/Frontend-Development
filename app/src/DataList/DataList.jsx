@@ -6,8 +6,10 @@ const DataList = () => {
     { name: 'course 1', description: 'Java' },
     { name: 'course 2', description: 'JavaScript' },
     { name: 'course 3', description: 'Python' },
+    { name: 'course 4', description: 'C++' },
+    { name: 'course 5', description: 'Ruby' },
+    { name: 'course 6', description: 'Go' },
   ];
-
   return (
     <div className="container mt-4">
       <h3 className="text-center mb-4">Course List Static Data</h3>
