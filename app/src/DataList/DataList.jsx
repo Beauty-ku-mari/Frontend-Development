@@ -10,7 +10,7 @@ const DataList = () => {
 
   return (
     <div className="container mt-4">
-      <h3 className="text-center mb-4">Course List</h3>
+      <h3 className="text-center mb-4">Course List Static Data</h3>
       <ul className="list-group">
         {data.map((item, index) => (
           <li key={index} className="list-group-item">
